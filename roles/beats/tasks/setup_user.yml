@@ -11,3 +11,4 @@
     shell: /bin/sh
     password: "*"
     group: "{{ beats_group }}"
+    groups: adm
